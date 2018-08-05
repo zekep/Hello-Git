@@ -1,7 +1,4 @@
-//
-//  AppDelegate.swift
-//  Hello Git
-//
+
 //  Created by Jamie Pickar on 8/5/18.
 //  Copyright © 2018 Jamie Pickar. All rights reserved.
 //
